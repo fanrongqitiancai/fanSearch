@@ -3,3 +3,5 @@ Local-first file search for Windows combining full-text search (SQLite FTS5) and
 
 # 软件界面
 ![](https://github.com/fanrongqitiancai/fanSearch/blob/main/%E8%8B%B1%E8%AF%AD%20%E6%B5%B7%E6%8A%A5.png)
+
+![](https://github.com/fanrongqitiancai/fanSearch/blob/main/%E6%B5%B7%E6%8A%A5.png)
